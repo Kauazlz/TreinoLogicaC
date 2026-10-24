@@ -4,5 +4,5 @@ void main (){
    //a = a + 2;
    a /= (float b);
    printf("O valor de a e %d", a);
-
+   // Teste
 }
